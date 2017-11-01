@@ -1,4 +1,5 @@
-# Logs Analysis ## About
+# Logs Analysis
+## About
 
 This is the third project for the Udacity Full Stack Nanodegree. The database contains newspaper articles, as well as the web server log for the site.
 
